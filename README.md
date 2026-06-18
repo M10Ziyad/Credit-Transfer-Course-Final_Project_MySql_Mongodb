@@ -3,25 +3,24 @@
 > An enterprise-grade Database Management System designed for Procurement, Quality Inspection, and Material Issue Management.
 
 ## 📋 Table of Contents
-- [Academic Context](academic-context)
-- [Project Scope & Business Logic](project-scope--business-logic)
-- [Database Architecture](database-architecture)
-- [Entity Data Model](entity-data-model)
-- [Getting Started](getting-started)
+- [Academic Context](#academic-context)
+- [Project Scope & Business Logic](#project-scope--business-logic)
+- [Database Architecture](#database-architecture)
+- [Entity Data Model](#entity-data-model)
+- [Getting Started](#getting-started)
 
 ---
 
-## 🎓 Academic Context
+## Academic Context
 - **Institution:** Vidyalankar Institute of Technology (VIT), Mumbai
 - **Program:** Computer Engineering (CMPN) - Batch A
 - **Course:** Final Project Vidyanidhi (MySQL & MongoDB Credit Transfer Course)
-- **Team Members:** - Ali Mehdi Mirza (24102C0054)
+- **Team Members:** - Ziyad Mujawar (24102C0082)
   - Kaab Ansari (24102C0056)
-  - Ziyad Mujawar (24102C0082)
-
+  
 ---
 
-## 📌 Project Scope & Business Logic
+## Project Scope & Business Logic
 
 This database is engineered to handle the operational logistics of a mid-to-large scale supply chain, ensuring high data integrity and zero redundancy. 
 
@@ -33,7 +32,7 @@ This database is engineered to handle the operational logistics of a mid-to-larg
 
 ---
 
-## ⚙️ Database Architecture
+## Database Architecture
 
 The schema is optimized for data integrity and rapid transactional logging.
 
@@ -47,7 +46,7 @@ The schema is optimized for data integrity and rapid transactional logging.
 
 ---
 
-## 🗄️ Entity Data Model
+## Entity Data Model
 
 The database is logically partitioned into three domains: Master Data, Transactional Data, and Inventory Tracking.
 
@@ -73,7 +72,7 @@ The database is logically partitioned into three domains: Master Data, Transacti
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 * MySQL Server (v8.0+)
