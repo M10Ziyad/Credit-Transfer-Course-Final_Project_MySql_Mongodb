@@ -3,7 +3,7 @@
 > An enterprise-grade Database Management System designed for Procurement, Quality Inspection, and Material Issue Management.
 
 ## 📋 Table of Contents
-- [Academic Context](#academic-context)
+- [Academic Context](#academiccontext)
 - [Project Scope & Business Logic](#project-scope--business-logic)
 - [Database Architecture](#database-architecture)
 - [Entity Data Model](#entity-data-model)
